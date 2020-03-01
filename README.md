@@ -1,9 +1,9 @@
-# Finance Wallet - Info:
+# Finance Wallet:
 - Manage income and expenses application
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# START DATE: 01.03.2020
-# END DATE  : --.--.----
+## START DATE: 01.03.2020
+## END DATE  : --.--.----
 
 ## Plan:
 - Stage one: Create basic UI, Income/Expenses, Transaction List, Add Form
